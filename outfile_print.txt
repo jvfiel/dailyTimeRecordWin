@@ -1,5 +1,4 @@
-2017/11/02 - 2017/11/17
------------------------------------
+
 Date: 2017/11/02, Time: 15:52:00, in Hours: 8.0
 Date: 2017/11/03, Time: 07:31:00 - 15:56:00, in Hours: 8:25
 Date: 2017/11/04, Time: 09:33:00 - 16:19:00, in Hours: 6:46
@@ -13,7 +12,7 @@ Date: 2017/11/13, Time: 07:33:00 - 16:24:00, in Hours: 8:51
 Date: 2017/11/14, Time: 07:43:00 - 15:55:00, in Hours: 8:12
 Date: 2017/11/15, Time: 08:21:00 - 16:22:00, in Hours: 8:01
 Date: 2017/11/16, Time: 07:57:00 - 16:34:00, in Hours: 8:37
-Name: DHIMPLE, Total in Minutes: 6351.0, Total in Hours: 105:51
+Name: dhimple, Total in Minutes: 6351.0, Total in Hours: 105:51
 --------------------------------------------
 Date: 2017/11/02, Time: 16:53:00, in Hours: 8.0
 Date: 2017/11/03, Time: 07:53:00 - 16:38:00, in Hours: 8:45
@@ -29,7 +28,7 @@ Date: 2017/11/14, Time: 07:42:00 - 18:01:00, in Hours: 10:19
 Date: 2017/11/15, Time: 07:39:00 - 18:13:00, in Hours: 10:34
 Date: 2017/11/16, Time: 07:49:00 - 19:33:00, in Hours: 11:44
 Date: 2017/11/17, Time: 07:28:00 - 18:07:00, in Hours: 10:39
-Name: IVY, Total in Minutes: 7946.0, Total in Hours: 132:26
+Name: ivy, Total in Minutes: 7946.0, Total in Hours: 132:26
 --------------------------------------------
 Date: 2017/11/02, Time: 16:19:00, in Hours: 8.0
 Date: 2017/11/03, Time: 07:52:00 - 16:10:00, in Hours: 8:18
@@ -45,5 +44,5 @@ Date: 2017/11/14, Time: 07:55:00 - 16:19:00, in Hours: 8:24
 Date: 2017/11/15, Time: 07:59:00 - 16:40:00, in Hours: 8:41
 Date: 2017/11/16, Time: 07:56:00 - 17:10:00, in Hours: 9:14
 Date: 2017/11/17, Time: 07:20:00 - 17:06:00, in Hours: 9:46
-Name: LIEZEL, Total in Minutes: 7325.0, Total in Hours: 122:05
+Name: liezel, Total in Minutes: 7325.0, Total in Hours: 122:05
 --------------------------------------------
