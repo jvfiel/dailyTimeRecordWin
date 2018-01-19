@@ -1,0 +1,16 @@
+
+Date: 2017/11/02, Time: 15:52:00, in Hours: 8.0
+Date: 2017/11/03, Time: 07:31:00 - 15:56:00, in Hours: 8:25
+Date: 2017/11/04, Time: 09:33:00 - 16:19:00, in Hours: 6:46
+Date: 2017/11/06, Time: 07:28:00 - 17:23:00, in Hours: 9:55
+Date: 2017/11/07, Time: 07:36:00 - 14:42:00, in Hours: 7:06
+Date: 2017/11/08, Time: 16:31:00, in Hours: 8.0
+Date: 2017/11/09, Time: 07:21:00 - 16:15:00, in Hours: 8:54
+Date: 2017/11/10, Time: 07:27:00 - 16:27:00, in Hours: 9:00
+Date: 2017/11/11, Time: 09:32:00 - 15:36:00, in Hours: 6:04
+Date: 2017/11/13, Time: 07:33:00 - 16:24:00, in Hours: 8:51
+Date: 2017/11/14, Time: 07:43:00 - 15:55:00, in Hours: 8:12
+Date: 2017/11/15, Time: 08:21:00 - 16:22:00, in Hours: 8:01
+Date: 2017/11/16, Time: 07:57:00 - 16:34:00, in Hours: 8:37
+Name: dhimple, Total in Minutes: 6351.0, Total in Hours: 105:51
+--------------------------------------------
